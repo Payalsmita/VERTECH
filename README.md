@@ -54,7 +54,7 @@ The user interface of our application is made very subtle and easy to use.Follow
 
 Demo Video
 
-WhatsApp Video 2022-01-10 at 4.56.04 PM.mp4
+https://user-images.githubusercontent.com/64422429/148689610-b70484a2-1c1d-46fd-8cef-1f63b9f1eecb.mp4
 
 ## Application link & future scope-
 Currently our app is in the testing phase within our associates and technical clubs.
