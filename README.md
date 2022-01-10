@@ -54,7 +54,8 @@ The user interface of our application is made very subtle and easy to use.Follow
 
 Demo Video
 
-https://user-images.githubusercontent.com/64422429/148689610-b70484a2-1c1d-46fd-8cef-1f63b9f1eecb.mp4
+Registration Page- 
+<img src="https://github.com/its-navneet/VerTech/blob/master/VerTech_Demo.gif" width="280" height="550" />
 
 ## Application link & future scope-
 Currently our app is in the testing phase within our associates and technical clubs.
